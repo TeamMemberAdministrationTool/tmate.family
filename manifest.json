@@ -1,0 +1,30 @@
+{
+    "package": {
+        "name": "Familien",
+        "namespace": "family",
+        "version": "0.0.1",
+        "description": "Diese Erweiterung fügt Funktionen für Familien hinzu. Sie ermöglicht es, Nutzer zu Familien zu gruppieren.",
+        "author": {
+            "name": "Konrad Weiß",
+            "organisation": "Logilutions",
+            "url": "http://logilutions.de",
+            "email": "info@logilutions.de"
+        },
+        "keywords": [
+            "family",
+            "familie",
+            "gruppe",
+            "gruppieren",
+            "vater",
+            "mutter",
+            "kind",
+            "sohn",
+            "tochter",
+            "eltern"
+        ],
+        "images": {
+            "icon": "images/icon.png",
+            "banner": "images/banner.png"
+        }
+    }
+}
