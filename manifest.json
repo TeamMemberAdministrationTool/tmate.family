@@ -2,7 +2,7 @@
     "package": {
         "name": "Familien",
         "namespace": "family",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "description": "Diese Erweiterung fügt Funktionen für Familien hinzu. Sie ermöglicht es, Nutzer zu Familien zu gruppieren.",
         "author": {
             "name": "Konrad Weiß",
