@@ -2,7 +2,7 @@
     "package": {
         "name": "Familien",
         "namespace": "family",
-        "version": "0.0.2",
+        "version": "0.2.1",
         "description": "Diese Erweiterung fügt Funktionen für Familien hinzu. Sie ermöglicht es, Nutzer zu Familien zu gruppieren.",
         "author": {
             "name": "Konrad Weiß",
@@ -30,7 +30,8 @@
             "coltypes": {
                 "family": {
                     "name": "Familie",
-                    "members": "implements/members.php"
+                    "members": "implements/members.php",
+                    "save": "implements/save.php"
                 }
             }
         }

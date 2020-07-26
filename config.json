@@ -1,0 +1,8 @@
+{
+    "database": {
+        "members": {
+            "vorname": "vorname",
+            "nachname": "nachname"
+        }
+    }
+}
