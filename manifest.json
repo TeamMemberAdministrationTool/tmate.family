@@ -25,6 +25,14 @@
         "images": {
             "icon": "images/icon.png",
             "banner": "images/banner.png"
+        },
+        "implement": {
+            "coltypes": {
+                "family": {
+                    "name": "Familie",
+                    "members": "implements/members.php"
+                }
+            }
         }
     }
 }
